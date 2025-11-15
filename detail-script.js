@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const spintaxArticleTemplate = `
             <p>{Welcome|Hello, food lovers|Greetings, home cooks} to our blog! {This time|On this occasion|In this article}, we will {explore|share|discover} various {delicious and inspiring|mouth-watering and creative|simple and tasty} ideas for <strong>${capitalizedTermForArticle}</strong>.
             {Finding|Discovering} the {right|perfect|suitable} inspiration for <strong>${capitalizedTermForArticle}</strong> {can sometimes be a challenge|is often easier said than done|requires a bit of culinary creativity}.
-            {That's why|Therefore}, we've {curated|gathered|presented} {a variety of|several} of the {tastiest concepts|most exciting ideas} for {you|our loyal readers}.</p>
+            {That's why|Therefore}, we've {curated|gathered|presented} {a variety of|several} of the {tasiest concepts|most exciting ideas} for {you|our loyal readers}.</p>
 
             <h3>{Key Elements|Main Focus|Crucial Details} in ${capitalizedTermForArticle}</h3>
             <p>To {achieve|create|cook up} the {best|most delicious|most satisfying} results with your <strong>${capitalizedTermForArticle}</strong>, there are {several things|a few key aspects} that {need your attention|you should focus on}.
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <h4>8. {Add|A Dash of|Your} Personal Flair</h4>
             <p>{Finally, make the recipe yours|The final step is to add a personal touch}.
             {Incorporate ingredients that tell your story|Showcase your unique taste}. {This could be a secret family spice, a favorite hot sauce, a squeeze of fresh citrus, or a unique garnish|Think a special herb from your garden, a regional ingredient, or a cherished cooking method}.
-            These details make your <strong>${capitalizedTermForArticle}</strong> {truly unique|one-of-a-kind}.</p>
+These details make your <strong>${capitalizedTermForArticle}</strong> {truly unique|one-of-a-kind}.</p>
 
             <h3>{Conclusion|Final Thoughts|Wrapping It Up}</h3>
             <p>{So there you have it|And that's a wrap}—several {ideas and inspirations|delicious concepts|tips and tricks} for <strong>${capitalizedTermForArticle}</strong> that {you can try|can serve as your guide in the kitchen}.
